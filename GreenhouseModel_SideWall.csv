@@ -1,0 +1,11 @@
+﻿Parameter,Unit,Value
+Solar Transmissivity,-,0.78
+Long-wave Transmissivity,-,0.03
+Solar Heat Gain Coefficient,-,0.696
+Shading Factor,-,0.8
+Number of Layers in Cover,-,1
+Material Thermal Conductivity,W m-1 K-1,0.2
+Material Thickness,m,0.008
+Perimeter Heat Loss Factor,W m-1 K-1,0.85
+Thermal Air Conductance,W m-2 K-1,3.85
+Emissivity,-,0.65

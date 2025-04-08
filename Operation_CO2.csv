@@ -1,0 +1,6 @@
+﻿Parameter,Unit,Value
+Ambient Levels,ppm,409.8
+Daytime CO2 Level,ppm,1000
+Nighttime CO2 Level,ppm,409.8
+Daytime CO2 Level On,hour of day,7
+Daytime CO2 Level Off,hour of day,22

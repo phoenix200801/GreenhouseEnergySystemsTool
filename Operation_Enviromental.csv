@@ -1,0 +1,8 @@
+﻿Parameter,Unit,Value
+No. of Air Recirculation Fans,-,8
+Motor Power Rating,W,375
+Recirculation Motor Efficiency,-,0.9
+Recirculation Motor Load Factor,-,1
+Recirculation Motor Use Factor,-,1
+Number of Air Exchanges per hour,-,1
+Indoor air Velocity,m s-1,0.2

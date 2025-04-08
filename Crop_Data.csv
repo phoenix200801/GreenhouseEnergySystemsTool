@@ -1,0 +1,11 @@
+﻿Parameter,Unit,Value
+Extinction Coefficient,-,0.94
+Leaf Transmission Coefficient,-,0.1
+a,m3 J-1,0.000089
+b,m2 s J-1,0.021
+Leaf PAR use efficiency,kgCO2 J-1,2.11E-08
+CO2 Density stp,kg m-3,1.87
+Dark Respiration Rate,kgCO2 m-2 s-1,0.00000004
+Stem Density,,2.5
+Leaf Area Index,,2.275
+Characteristic Length of Leaf,,0.027

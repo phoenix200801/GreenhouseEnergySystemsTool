@@ -1,0 +1,5 @@
+﻿Parameter,Unit,Value
+Set-point Daytime Temperature,˚C,21
+Set-point Nighttime Temperature,˚C,18
+Daytime Start Hour,hour of day,7
+Nighttime Start Hour,hour of day,22

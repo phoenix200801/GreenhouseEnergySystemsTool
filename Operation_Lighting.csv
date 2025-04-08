@@ -1,0 +1,8 @@
+﻿Parameter,Unit,Value
+Time lighting is switched on,hour of day,7
+Time lighting is switched off,hour of day,22
+Fraction of Lighting Input Converted to PAR,-,0.55
+Switch off if solar radiation is greater than:,W m-2,250
+Installed Power of lamp,W m-2,66
+Lighting Heat Conversion Factor,-,0.2475
+Lighting Allowance Factor,-,0.9
